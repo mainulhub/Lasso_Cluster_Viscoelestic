@@ -9,7 +9,7 @@
 </p>
 <br/>
 <br/>
-<p><b>Machine Learning Technique</b></p>
+<p><b>Machine Learning Technique (Lasso and K-mean Cluster)</b></p>
 <p align="center">
   <img src="LR_KM_Method.jpg" title="hover text">
 </p>
